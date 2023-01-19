@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caesar Apridarkar</h1>
 <h3 align="center">A junior developer from Indonesia</h3>
+<img align="right" alt="coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw30P1GYpZSzE68l_Ft_-6jT&ust=1674196993693000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjExPuD0_wCFQAAAAAdAAAAABAE">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarsky27" alt="cesarsky27" /></a> </p>
 
