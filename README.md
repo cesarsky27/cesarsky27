@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarsky27&show_icons=true&locale=en" alt="cesarsky27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarsky27&" alt="cesarsky27" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/fachridantm/fachridantm/0cd65e37f6ddcd7a5a682b32a0a154acb3611836/github-contribution-grid-snake-dark.svg" alt="cesarsky27" /></p>
