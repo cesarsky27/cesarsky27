@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Siloam Hospitals Group**
 
-- 🌱 I’m currently learning **Javascripts, C#, .NET Framework and flutter soon will be**
+- 🌱 I’m working with **Kotlin Jetpack Compose, C#, .NET Framework**
 
 - 📫 How to reach me **caesar.apridarkar27@gmail.com**
 
